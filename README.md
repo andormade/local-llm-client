@@ -1,1 +1,1 @@
-# local-llm-client
+A self-hosted chat client for interacting with API-based LLMs, with custom context management and memory control.
